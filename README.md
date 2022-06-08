@@ -1,2 +1,2 @@
 # BookExchangePortal
-OOP Project made with Sprigboot
+OOP Project made with Spring Boot
